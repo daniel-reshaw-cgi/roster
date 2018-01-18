@@ -3,6 +3,6 @@ bin
 .settings
 .classpath
 .project
-*.iml
 .gradle
+*.iml
 target
